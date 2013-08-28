@@ -1,10 +1,8 @@
 #MARY JANE SIMPSON
 
-Contact: 124 Science Drive
-Box 90347
-Durham, NC 27708
-919-660-1585
-maryjane.simpson at duke.edu
+* Address: 124 Science Drive, Box 90347, Durham, NC 27708
+* Phone: 919-660-1585
+* E-mail: maryjane.simpson at duke.edu
 
 ##Education
 
@@ -16,8 +14,8 @@ maryjane.simpson at duke.edu
 * GPA: 3.65
 
 ###STETSON UNIVERSITY, 2006-2009
-*Bachelor of Science
-*Chemistry
+* Bachelor of Science
+* Chemistry
 * *Cum Laude*
 
 ##Honors and Awards
@@ -30,15 +28,15 @@ maryjane.simpson at duke.edu
 
 * Poster Prize in Melanins Category, 2011, International Pigment Cell Conference
 
-*IFPCS Travel Award to Conference in Bordeaux, France, 2011, International Federation of Pigment Cell Societies
+* IFPCS Travel Award to Conference in Bordeaux, France, 2011, International Federation of Pigment Cell Societies
 
 * 1st Place Poster Presentation, 2010, Fitzpatrick Institute for Photonics Annual Meeting
 
-*Outstanding Senior Award, 2009, Stetson University Department of Chemistry	
+* Outstanding Senior Award, 2009, Stetson University Department of Chemistry	
 
-*Undergraduate Award in Analytical Chemistry, 2008, American Chemical Society
+* Undergraduate Award in Analytical Chemistry, 2008, American Chemical Society
 
-*Award for Achievement in Organic Chemistry, 2007, National Information Center for Polymer Education
+* Award for Achievement in Organic Chemistry, 2007, National Information Center for Polymer Education
 
 ##Publications
 
@@ -82,15 +80,15 @@ Planning and co-teaching a freshmen seminar course on the chemistry and physics 
 ###Science Outreach Projects, 2011 – Present
 Created an optics outreach presentation to teach students at Seawall Elementary about lasers and optics; participated in several chemistry outreach events
 
-###Recitation Teaching Assistant, Spring/Fall 2011
-General Chemistry, CHEM 32
+###Recitation Teaching Assistant
+General Chemistry, CHEM 32, Spring/Fall 2011
 
 ###Laboratory Teaching Assistant                                         
-* Organic Chemistry, CHEM 151, **Spring 2010**
-* General Chemistry, CHEM 31, **Fall 2009**
+* Organic Chemistry, CHEM 151, Spring 2010
+* General Chemistry, CHEM 31, Fall 2009
 
 ##Professional Memberships
 
-* **American Chemical Society**, 2009 – Present 
-* **American Physical Society**, 2011 – Present
+* American Chemical Society, 2009 – Present 
+* American Physical Society, 2011 – Present
 
