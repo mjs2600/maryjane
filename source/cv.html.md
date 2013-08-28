@@ -1,22 +1,23 @@
 #MARY JANE SIMPSON
 
 * Address: 124 Science Drive, Box 90347, Durham, NC 27708
+
 * Phone: 919-660-1585
 * E-mail: maryjane.simpson at duke.edu
 
 ##Education
 
 ###DUKE UNIVERSITY, 2009-Present
-* Ph.D. Candidate
-* Department of Chemistry
-* Advisor: Professor Warren S. Warren
-* Expected Graduation: May 2014
-* GPA: 3.65
+Ph.D. Candidate
+
+Department of Chemistry
+
+Advisor: Professor Warren S. Warren
+
+Expected Graduation: May 2014, GPA: 3.65
 
 ###STETSON UNIVERSITY, 2006-2009
-* Bachelor of Science
-* Chemistry
-* *Cum Laude*
+Bachelor of Science in Chemistry, *Cum Laude*
 
 ##Honors and Awards
 
