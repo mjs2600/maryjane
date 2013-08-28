@@ -24,4 +24,4 @@ I led a short pre-lab discussion, then guided students through general chemistry
 
 #Private Chemistry Tutor
 
-I have tutored a range of levels including high school general chemistry to second semester general chemistry, both as a community volunteer and for pay, since 20
+I have tutored a range of levels including high school general chemistry to second semester general chemistry, both as a community volunteer and for pay, since 2006.
