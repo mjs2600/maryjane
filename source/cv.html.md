@@ -1,4 +1,4 @@
-#**MARY JANE SIMPSON**
+#MARY JANE SIMPSON
 
 Contact: 124 Science Drive
 Box 90347
@@ -6,7 +6,7 @@ Durham, NC 27708
 919-660-1585
 maryjane.simpson at duke.edu
 
-##**Education**
+##Education
 
 **DUKE UNIVERSITY, 2009-Present**
 Ph.D. Candidate
@@ -20,7 +20,7 @@ Bachelor of Science
 Chemistry
 *Cum Laude*
 
-##**Honors and Awards**
+##Honors and Awards
 
 **Kathleen Zielek Fellowship, 2013**
 Duke University Department of Chemistry
@@ -41,7 +41,7 @@ American Chemical Society
 **Award for Achievement in Organic Chemistry, 2007**
 National Information Center for Polymer Education
 
-##**Publications**
+##Publications
 
 **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, “Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,” *Journal of Physical Chemistry A*, submitted.
 **M. J. Simpson**, K. E. Glass, J. W. Wilson, P. Wilby, J. Simon, W. S. Warren, “Pump-Probe Microscopic Imaging of Jurassic-Aged Eumelanin,” *Journal of Physical Chemistry Letters*, **4** (11), 1924-1927 (2013).
@@ -53,7 +53,7 @@ J. W. Wilson, T. E. Matthews, S. Degan, J. Y. Zhang, **M. J. Simpson**, W. Warre
 
 T. E. Matthews, I. R. Piletic, M. A. Selim, **M. J. Simpson**, W. S. Warren, “Pump-probe imaging differentiates melanoma from melanocytic nevi,” *Science Translational Medicine*, **3**, 71ra15 (2011).
 
-##**Presentations**
+##Presentations
 
  **“Examining Melanin Degradation with Pump-Probe Microscopy”**
 Poster Presentation
@@ -108,7 +108,7 @@ Poster Presentation
 Durham, NC, USA 
 27 October 2010
 
-##**Teaching**
+##Teaching
 
 **CHEM 89S, Spring 2012 – Spring 2013**
 Planning and co-teaching a freshmen seminar course on the chemistry and physics of cooking in collaboration with Professor Patrick Charbonneau
@@ -123,7 +123,7 @@ General Chemistry, CHEM 32
 Organic Chemistry, CHEM 151, **Spring 2010**
 General Chemistry, CHEM 31, **Fall 2009**
 
-##**Professional Memberships**
+##Professional Memberships
 
 **American Chemical Society**, 2009 – Present 
 **American Physical Society**, 2011 – Present
