@@ -2,7 +2,7 @@
 
 I designed and taught a new freshman-level course as a team with an assistant professor, a chef, and another graduate student teaching fellow. Based on a course taught at Harvard, we reworked the syllabus, revised the labs, wrote new problem sets, class projects, and lectures. Whereas the Harvard class focused on the physics of cooking for a large group of students who had a background in science, our class focused on both the chemistry and physics of cooking for a small group of students who had little background in science. The purpose of this class was to foster an interest in science through the cooking application. I taught four of the twelve, 75-minute lectures throughout the semester. 
 
-I would be interested in teaching this course, again, although I would need a chef partner and test kitchen in order to do the lab portion I would make plenty of changes, however: it would be more discussion-based than lecture-based and would include not just physical and chemical principals but also biological. The revised syllabus is in the specialty courses section of my portfolio. A short sample lecture is shown [here]. (http://www.chem.duke.edu/~janet/chem89Preview.pdf)
+I would be interested in teaching this course, again, although I would need a chef partner and test kitchen in order to do the lab portion I would make plenty of changes, however, it would be more discussion-based than lecture-based and would include not just physical and chemical principals but also biological. The revised syllabus is in the specialty courses section of my portfolio. A short sample lecture is shown [here] (http://www.chem.duke.edu/~janet/chem89Preview.pdf).
 
 #Chemistry Outreach Volunteer
 
@@ -22,6 +22,6 @@ I led a short pre-lab discussion, then guided students through organic chemistry
 
 I led a short pre-lab discussion, then guided students through general chemistry labs. I also graded their lab reports and exams.
 
-#Private Chemistry Tutor (both volunteer and for pay)
+#Private Chemistry Tutor
 
-I have tutored a range of levels included high school general chemistry to second semester general chemistry, both as a community volunteer and for pay, since 20
+I have tutored a range of levels including high school general chemistry to second semester general chemistry, both as a community volunteer and for pay, since 20
