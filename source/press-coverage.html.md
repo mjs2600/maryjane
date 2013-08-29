@@ -6,10 +6,6 @@ July 19, 2013
 Phys.org,
 June 3, 2013
 
-* [**“Chocolate’s crisp crack comes from chemistry”**] (http://sites.duke.edu/dukeresearch/2013/03/28/chocolates-crisp-crack-comes-from-chemistry/), 
-Duke Research Blog,
-March 28, 2013
-
 * [**“Lasers ID deadly skin cancer better than doctors”**] (http://www.sciencedaily.com/releases/2011/02/110223151934.htm),
 ScienceDaily.com,
 February 23, 2011
