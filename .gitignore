@@ -33,6 +33,6 @@ tmp
 .yardoc
 _yardoc
 doc/
-.!sync
-.swo
-.swp
+*.!sync
+*.swo
+*.swp
