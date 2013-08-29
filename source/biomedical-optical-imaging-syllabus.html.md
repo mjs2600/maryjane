@@ -74,4 +74,4 @@ This course will first build a physical and chemical framework about biomedical 
 
 ##Final Project
 
-Write a SURE grant proposal for an original research proposal based on biomedical imaging (may include modalities other than optical if desired).
+Write a grant proposal for an original research proposal based on biomedical imaging (may include modalities other than optical if desired).
