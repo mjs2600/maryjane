@@ -10,11 +10,13 @@
     <title><%= current_page.data.title || "Mary Jane Simpson" %></title>
     
     <%= stylesheet_link_tag "all" %>
-    <%= javascript_include_tag  "all", "app", "bacon" %>
+    <%= javascript_include_tag "bacon", "jquery", "all", "app" %>
   </head>
   
   <body class="<%= page_classes %>">
     <%= partial "menu" %>
-    <%= yield %>
+    <div class="container">
+      <%= yield %>
+    </div>
   </body>
 </html>
