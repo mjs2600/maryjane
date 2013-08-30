@@ -1,6 +1,76 @@
-= nav_bar brand: "Mary Jane Simpson" do
-  = menu_group do
-    = menu_item "CV", "/cv"
-    = menu_item "Press Coverage", "/press-coverage"
-    = menu_item "Teaching Experience", "/teaching-experience"
-    = menu_item "Teaching Philosophy", "/teaching-philosophy"
+.navbar.navbar-fixed-top
+  .navbar-inner
+    a.brand href="#"
+      | Mary Jane Simpson
+    ul.nav
+      li.dropdown
+        a.dropdown-toggle data-toggle="dropdown" href="#"
+          | About
+          i.icon-info-sign
+          b.caret
+        ul.dropdown-menu
+          li
+            a href="/cv"
+              | Overview
+          li
+            a href="/education"
+              | Education
+          li
+            a href="/honors-awards"
+              | Honors/Awards
+          li
+            a href="/education"
+              | Printable CV
+              i.icon-download
+
+      li.dropdown
+        a.dropdown-toggle data-toggle="dropdown" href="#"
+          | Research
+          i.icon-beaker
+          b.caret
+        ul.dropdown-menu
+          li
+            a href="/research-summary"
+              | Overview
+          li
+            a href="/publications"
+              | Publications
+          li
+            a href="/research-press-coverage"
+              | Press Coverage
+          li
+            a href="/presentations"
+              | Presentations
+      li.dropdown
+        a.dropdown-toggle data-toggle="dropdown" href="#"
+          | Teaching
+          i.icon-pencil
+          b.caret
+        ul.dropdown-menu
+          li
+            a href="/teaching-summary"
+              | Overview
+          li
+            a href="/teaching-experience"
+              | Experience
+          li
+            a href="/teaching-philosophy"
+              | Philosophy
+          li
+            a href="/teaching-press-coverage"
+              | Press Coverage
+          li.dropdown-submenu
+            a href="#"
+              | Sample Syllabi
+            ul.dropdown-menu
+              li
+                a href="/cooking-chemistry"
+                  | Cooking
+              li
+                a href="/biomedical-optical-imaging-syllabus"
+                  | Biomedical Imaging
+      li
+        a href="/contact"
+          | Contact
+          i.icon-phone
+
