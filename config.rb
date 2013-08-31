@@ -55,6 +55,8 @@ set :js_dir, 'javascripts'
 
 set :images_dir, 'images'
 
+set :relative_links, true
+
 # Build-specific configuration
 configure :build do
   # For example, change the Compass output style for deployment
@@ -73,9 +75,9 @@ configure :build do
   # set :http_path, "/Content/images/"
 end
 
-set :relative_links, true
 activate :directory_indexes
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true
 
 set :fonts_dir,  "fonts"
+
