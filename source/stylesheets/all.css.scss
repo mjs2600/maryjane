@@ -1,7 +1,76 @@
 @import "bootstrap";
 @import "font-awesome";
 @import url(http://fonts.googleapis.com/css?family=Muli|Quattrocento);
-body { padding-top: 70px; }
+
+$icon-red: #D41717;
+$icon-green: #078500;
+$icon-blue: #0036AB;
+$icon-violet: #AB00A5;
+
+body { 
+  padding-top: 50px;
+}
 i {
   padding-left: 5px;
+}
+.about {
+  color: $icon-red;
+}
+.research {
+  color: $icon-green;
+}
+.teaching {
+  color: $icon-blue;
+}
+.contact {
+  color: $icon-violet;
+}
+
+li:hover i {
+  &.red {
+    text-shadow: 0 0 4px lighten($icon-red, 50%);
+  }
+  &.green {
+    text-shadow: 0 0 4px lighten($icon-green, 35%);
+  }
+  &.blue {
+    text-shadow: 0 0 4px lighten($icon-blue, 35%);
+  }
+  &.violet {
+    text-shadow: 0 0 4px lighten($icon-violet, 35%);
+  }
+}
+
+ul {
+  li{
+    list-style: none;
+  }
+}
+
+.logo {
+  line {
+    stroke: rgb(255,0,0);
+    stroke-width: 2;
+  }
+  text {
+    fill: "grey";
+  }
+}
+
+.container {
+  img {
+    display: float;
+    float: right;
+    padding-left: 100px;
+  }
+
+  p,li,ol {
+    font-family: "Quattrocento";
+  }
+
+  h1,h2,h3 {
+    clear: both;
+    font-family: "Muli";
+    padding-bottom: 20px;
+  }
 }
