@@ -9,13 +9,16 @@ Department of Chemistry
 <br>
 Advisor: Professor Warren S. Warren
 <br>
-Expected Graduation: May 2014, GPA: 3.65
+Anticipated Graduation: May 2014
 
 ###Certificate in College Teaching, September 2013
 
 ##Stetson University, 2006-2009
 ![Stetson](/images/stetson.png)
-Bachelor of Science in Chemistry
+
+####Bachelor of Science 
+
+Department of Chemistry
 <br>
 *Cum Laude*
 
