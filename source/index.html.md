@@ -1,6 +1,6 @@
 #Introduction
 
-![Mary Jane Simpson](./images/mjheadshot.png)
+![Mary Jane Simpson](../images/mjheadshot.png)
 
 I am a fifth year graduate student specializing in physical chemistry at [Duke University] (http://www.chem.duke.edu/).
 Mentored by [Warren S. Warren] (http://www.chem.duke.edu/~wwarren/), who is the director of the [Center for Molecular and Biomolecular Imaging] (http://www.cmbi.duke.edu/) and is a member of the [Fitzpatrick Institute for Photonics] (http://www.fitzpatrick.duke.edu/), my research focuses on using nonlinear optics to learn about biology and chemistry.
