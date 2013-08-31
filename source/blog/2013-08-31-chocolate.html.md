@@ -1,5 +1,7 @@
 ---
 title: Need another excuse to satisfy your chocolate craving?
+date: 2013-08-31
+tags: medicine
 ---
 
 Reported in the [New England Journal of Medicine] (http://www.nejm.org/doi/full/10.1056/NEJMon1211064), scientists have found that increased chocolate consumption per capita is correlated with an increased number of Nobel prizes.
