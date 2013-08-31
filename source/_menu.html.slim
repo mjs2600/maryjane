@@ -3,72 +3,48 @@
     = link_to "Mary Jane Simpson", "/", class: :brand
     ul.nav-tabs.nav
       li.dropdown
-        = link_to "About", "/about-overview", class: "dropdown-toggle"
-        a.dropdown-toggle href="/about-overview"
-          | About
-          i.icon-info-sign.about
+        = link_to "About <i class='icon-info-sign about'></i>", "/about-overview", class: "dropdown-toggle"
         ul.dropdown-menu
           li
-            a href="/about-overview"
-              | Overview
+            = link_to "Overview", "/about-overview"
           li
-            a href="/about-education"
-              | Education
+            = link_to "Education", "/about-education"
           li
-            a href="/about-honors-awards"
-              | Honors/Awards
+            = link_to "Honors/Awards", "/about-honors-awards"
           li
-            a href="/files/SimpsonCV.pdf"
-              | Printable CV
-              i.icon-download
+            = link_to "Printable CV <i class='icon-download'></i>", "/files/SimpsonCV.pdf"
 
       li.dropdown
-        a.dropdown-toggle href="/research-summary"
-          | Research
-          i.icon-beaker.research
+        = link_to "Research <i class='icon-beaker research'></i>", "/research-summary", class: "dropdown-toggle"
         ul.dropdown-menu
           li
-            a href="/research-summary"
-              | Overview
+            = link_to "Overview", "/research-summary"
           li
-            a href="/research-publications"
-              | Publications
+            = link_to "Publications", "/research-publications"
           li
-            a href="/research-press-coverage"
-              | Press Coverage
+            = link_to "Press Coverage", "/research-press-coverage"
           li
-            a href="/research-presentations"
-              | Presentations
+            = link_to "Presentations", "/research-presentations"
       li.dropdown
-        a.dropdown-toggle href="/teaching-summary"
-          | Teaching
-          i.icon-pencil.teaching
+        = link_to "Teaching <i class='icon-pencil teaching'></i>", "/teaching-overview", class: "dropdown-toggle"
         ul.dropdown-menu
           li
-            a href="/teaching-summary"
-              | Overview
+            = link_to "Overview", "/teaching-summary"
           li
-            a href="/teaching-experience"
-              | Experience
+            = link_to "Experience", "/teaching-experience"
           li
-            a href="/teaching-philosophy"
-              | Philosophy
+            = link_to "Philosophy", "/teaching-philosophy"
           li
-            a href="/teaching-press-coverage"
-              | Press Coverage
+            = link_to "Press Coverage", "/teaching-press-coverage"
           li.dropdown-submenu
             a href="#"
               | Sample Syllabi
             ul.dropdown-menu
               li
-                a href="/teaching-cooking-chemistry"
-                  | Science of Cooking
+                = link_to "Science of Cooking", "/teaching-cooking-chemistry"
               li
-                a href="/teaching-biomedical-optical-imaging-syllabus"
-                  | Biomedical Imaging
+                = link_to "Biomedical Imaging", "/teaching-biomedical-optical-imaging-syllabus"
       li
-        a href="/contact"
-          | Contact
-          i.icon-phone.contact
+        = link_to "Contact <i class='icon-phone contact'></i>", "/contact"
 
 /= partial "logo"
