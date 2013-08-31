@@ -113,9 +113,9 @@ Welcome to a science class where fun and play are in order!
 
 ###“What makes watery food thick?”	
 
-*Emulsions
-*Thickeners
-*Starch
+* Emulsions
+* Thickeners
+* Starch
 * Foams and stabilizers
 	
 ###“How can we make sugar delicious and beautiful?”	
