@@ -4,4 +4,4 @@
 
 * Phone: 919-660-1585
 
-* E-mail: maryjane.simpson at duke.edu
+* E-mail: <maryjane.simpson@duke.edu>
