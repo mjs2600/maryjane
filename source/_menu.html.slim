@@ -1,9 +1,9 @@
 .navbar.navbar-fixed-top
   .navbar-inner
-    a.brand href="/"
-      | Mary Jane Simpson
+    = link_to "Mary Jane Simpson", "/", class: :brand
     ul.nav-tabs.nav
       li.dropdown
+        = link_to "About", "/about-overview", class: "dropdown-toggle"
         a.dropdown-toggle href="/about-overview"
           | About
           i.icon-info-sign.about

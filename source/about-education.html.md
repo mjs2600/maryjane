@@ -1,7 +1,7 @@
 #Education
 
 ##Duke University, 2009-Present
-![Duke](/images/duke.png)
+![Duke](../images/duke.png)
 
 ####Ph.D. Candidate
 
@@ -14,7 +14,7 @@ Anticipated Graduation: May 2014
 ###Certificate in College Teaching, September 2013
 
 ##Stetson University, 2006-2009
-![Stetson](/images/stetson.png)
+![Stetson](../images/stetson.png)
 
 ####Bachelor of Science 
 
