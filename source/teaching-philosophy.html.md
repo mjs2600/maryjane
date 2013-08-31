@@ -1,6 +1,6 @@
 # Teaching Philosophy
 
-![Optics Outreach](/images/MoreOpticsOutreach.jpg)
+![Optics Outreach](../images/MoreOpticsOutreach.jpg)
 
   The vast majority of those taking general chemistry classes will never utilize that chemistry knowledge.
   However, chemistry is an important part of a well-rounded education because it can cultivate a variety of skills that students need in order to become successful, independent adults.
