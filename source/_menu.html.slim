@@ -1,32 +1,32 @@
 .navbar.navbar-fixed-top
   .navbar-inner
-    a.brand href="#"
+    a.brand href="/"
       | Mary Jane Simpson
-    ul.nav
+    ul.nav-tabs.nav
       li.dropdown
         a.dropdown-toggle data-toggle="dropdown" href="#"
           | About
-          i.icon-info-sign
+          i.icon-info-sign.red
           b.caret
         ul.dropdown-menu
           li
-            a href="/cv"
+            a href="/about-overview"
               | Overview
           li
-            a href="/education"
+            a href="/about-education"
               | Education
           li
-            a href="/honors-awards"
+            a href="/about-honors-awards"
               | Honors/Awards
           li
-            a href="/education"
+            a href="/files/SimpsonCV.pdf"
               | Printable CV
               i.icon-download
 
       li.dropdown
         a.dropdown-toggle data-toggle="dropdown" href="#"
           | Research
-          i.icon-beaker
+          i.icon-beaker.green
           b.caret
         ul.dropdown-menu
           li
@@ -44,7 +44,7 @@
       li.dropdown
         a.dropdown-toggle data-toggle="dropdown" href="#"
           | Teaching
-          i.icon-pencil
+          i.icon-pencil.blue
           b.caret
         ul.dropdown-menu
           li
@@ -72,5 +72,6 @@
       li
         a href="/contact"
           | Contact
-          i.icon-phone
+          i.icon-phone.violet
 
+/= partial "logo"
