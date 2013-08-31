@@ -1,3 +1,5 @@
+$navbarHeight: 50px;
+
 @import "bootstrap";
 @import "font-awesome";
 @import url(http://fonts.googleapis.com/css?family=Muli|Quattrocento);
@@ -7,9 +9,24 @@ $icon-green: #078500;
 $icon-blue: #0036AB;
 $icon-violet: #AB00A5;
 
-body { 
+
+body {
   padding-top: 50px;
 }
+
+.dropdown-menu {
+  padding-top: 0px;
+  margin-top: 0px;
+  &:before,&:after {
+    border: none !important;
+    content: "" !important;
+  }
+}
+
+ul.nav li.dropdown:hover > ul.dropdown-menu {
+  display: block;
+}
+
 i {
   padding-left: 5px;
   &.about {
@@ -22,7 +39,21 @@ i {
     color: $icon-blue;
   }
   &.contact {
-    color: $icon-violet;
+    color: $purple;
+  }
+}
+
+.navbar {
+  a {
+    font-family: "Muli";
+    font-size: 18px;
+    &.brand {
+      font-size: 30px;
+    }
+  }
+  i {
+    transition: text-shadow 0.5s ease;
+    -webkit-transition: text-shadow 0.5s;
   }
 }
 h1.about {
@@ -35,21 +66,23 @@ h1.teaching {
   color: $icon-blue;
 }
 h1.contact {
-  color: $icon-violet;
+  color: $purple;
 }
 
 .navbar li:hover i {
+  transition: text-shadow 0.5s ease;
+  -webkit-transition: text-shadow 0.5s;
   &.about {
-    text-shadow: 0 0 4px lighten($icon-red, 50%);
+    text-shadow: 0 0 5px lighten($icon-red, 10%);
   }
   &.research {
-    text-shadow: 0 0 4px lighten($icon-green, 35%);
+    text-shadow: 0 0 5px lighten($icon-green, 10%);
   }
   &.teaching {
-    text-shadow: 0 0 4px lighten($icon-blue, 35%);
+    text-shadow: 0 0 5px lighten($icon-blue, 10%);
   }
   &.contact {
-    text-shadow: 0 0 4px lighten($icon-violet, 35%);
+    text-shadow: 0 0 5px lighten($purple, 10%);
   }
 }
 
