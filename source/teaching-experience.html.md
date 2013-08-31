@@ -8,6 +8,12 @@ I designed and taught a new freshman-level course as a team with an assistant pr
 
 I would be interested in teaching this course, again, although I would need a chef partner and test kitchen in order to do the lab portion. However, I would make plenty of changes. It would be more discussion-based than lecture-based and would include not just physical and chemical principals but also biological. The revised syllabus is in the sample syllabi section of my portfolio. A short sample lecture is shown [here] (http://www.chem.duke.edu/~janet/chem89Preview.pdf).
 
+##Mentoring Undergraduates in Research
+
+I have mentored two undergraduate students in research, Marshall A. Phipps (Trinity '12) and Christopher P. Dall (Trinity '13).
+Both of them coauthored peer-reviewed articles with me.
+Marshall and Christopher are both currently working while applying to medical school.
+
 ##Chemistry Outreach Volunteer
 
 I planned and performed demonstrations and activities to teach school-age children about optics. The topics included laser safety, collimated light, colors, manipulating light with lenses, mirrors and gratings, and coherence/interference.
