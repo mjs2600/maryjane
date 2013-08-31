@@ -1,8 +1,8 @@
 #Teaching Experience
 
-![Optics Outreach](/images/chemistry-outreach.jpg)
-
 ##Chemistry and Physics of Cooking Teaching Fellow
+
+![Optics Outreach](/images/chemistry-outreach.jpg)
 
 I designed and taught a new freshman-level course as a team with an assistant professor, a chef, and another graduate student teaching fellow. Based on a course taught at Harvard, we reworked the syllabus, revised the labs, wrote new problem sets, class projects, and lectures. Whereas the Harvard class focused on the physics of cooking for a large group of students who had a background in science, our class focused on both the chemistry and physics of cooking for a small group of students who had little background in science. The purpose of this class was to foster an interest in science through the cooking application. I taught four of the twelve, 75-minute lectures throughout the semester. 
 
