@@ -75,6 +75,12 @@ configure :build do
   # set :http_path, "/Content/images/"
 end
 
+activate :blog do |blog|
+    blog.prefix = "blog"
+end
+
+page "blog/*", :layout => :article_layout
+
 activate :directory_indexes
 set :markdown_engine, :redcarpet
 set :markdown, :fenced_code_blocks => true, :smartypants => true

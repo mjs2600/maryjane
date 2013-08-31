@@ -7,7 +7,9 @@ gem "middleman"
 # Live-reloading plugin
 gem "middleman-livereload"
 gem "middleman-sprockets"
+gem "middleman-blog"
 
+gem "nokogiri"
 gem "redcarpet"
 gem "slim"
 gem 'font-awesome-middleman'

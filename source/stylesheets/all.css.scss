@@ -41,6 +41,9 @@ i {
   &.contact {
     color: $purple;
   }
+  &.blog {
+    color: $orange;
+  }
 }
 
 .navbar {
@@ -68,6 +71,9 @@ h1.teaching {
 h1.contact {
   color: $purple;
 }
+h1.blog {
+  color: $orange;
+}
 
 .navbar li:hover i {
   transition: text-shadow 0.5s ease;
@@ -83,6 +89,9 @@ h1.contact {
   }
   &.contact {
     text-shadow: 0 0 5px lighten($purple, 10%);
+  }
+  &.blog {
+    text-shadow: 0 0 5px lighten($orange, 10%);
   }
 }
 

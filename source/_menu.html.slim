@@ -1,6 +1,6 @@
 .navbar.navbar-fixed-top
   .navbar-inner
-    = link_to "Mary Jane Simpson", "/", class: :brand
+    = link_to "Mary Jane Simpson", "/index.html", class: :brand
     ul.nav-tabs.nav
       li.dropdown
         = link_to "About <i class='icon-info-sign about'></i>", "/about-overview.html", class: "dropdown-toggle"
@@ -13,7 +13,8 @@
             = link_to "Honors/Awards", "/about-honors-awards.html"
           li
             = link_to "Printable CV <i class='icon-download'></i>", "/files/SimpsonCV.pdf"
-
+      li
+        = link_to "Blog <i class='icon-coffee blog'></i>", "/blog.html"
       li.dropdown
         = link_to "Research <i class='icon-beaker research'></i>", "/research-summary.html", class: "dropdown-toggle"
         ul.dropdown-menu
@@ -26,7 +27,7 @@
           li
             = link_to "Presentations", "/research-presentations.html"
       li.dropdown
-        = link_to "Teaching <i class='icon-pencil teaching'></i>", "/teaching-overview.html", class: "dropdown-toggle"
+        = link_to "Teaching <i class='icon-pencil teaching'></i>", "/teaching-summary.html", class: "dropdown-toggle"
         ul.dropdown-menu
           li
             = link_to "Overview", "/teaching-summary.html"
