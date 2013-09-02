@@ -13,7 +13,7 @@
 
   Chemistry can involve a great deal of creativity.
   Using course material to create new ideas is the ultimate proof that a student has achieved mastery.
-  In lieu of a written exam, I designed the midterm project for the course I taught in Spring 2013 with a creative aspect.
+  In lieu of a written exam, I designed the midterm project for the course I taught in [Spring 2013] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/) with a creative aspect.
   Students were asked to design a dish based on the principles of gastronomy they had learned so far in the course.
   This assignment was enormously successful, and the students came up with very unique meal ideas based in science.
 
