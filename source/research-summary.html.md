@@ -1,6 +1,6 @@
 #Research
 
-##Pump-probe spectroscopy quantifies molecules by utilizing differences in their physical dynamics, with applications in:
+##Pump-probe spectroscopy quantifies molecules using differences in their physical dynamics, with applications in:
 
 ### Biology – melanin spectroscopy can differentiate cell types
 
