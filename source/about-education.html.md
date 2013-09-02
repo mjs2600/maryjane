@@ -11,7 +11,7 @@ Advisor: Professor Warren S. Warren
 <br>
 Anticipated Graduation: May 2014
 
-###Certificate in College Teaching
+####Certificate in College Teaching
 
 ##Stetson University, 2006-2009
 ![Stetson](../images/stetson.png)
