@@ -1,6 +1,6 @@
 # Honors and Awards
 
-* Kathleen Zielek Fellowship, 2013, Duke University Department of Chemistry
+* Kathleen Zeilik Fellowship, 2013, Duke University Department of Chemistry
 
 * Poster Prize, 2012, Duke Center for *In Vivo* Microscopy Annual Meeting
 
