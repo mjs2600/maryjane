@@ -22,7 +22,7 @@ T. E. Matthews, J. W. Wilson, J. Y. Zhang, **M. J. Simpson**, J. Y. Jin, W. S. W
 
 ###Chemistry – photo-, thermal-, and chemically-induced changes affect the melanin signature
 
-**M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, “Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,” *Journal of Physical Chemistry A*, submitted.
+**M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, “Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,” *Journal of Physical Chemistry A*, in preparation.
 
 ###Environmental science – multi-wall carbon nanotubes are detectable at dilute, environmentally-relevant concentrations
 ![Environmental Science Slide](../images/researchpic3b.png)
