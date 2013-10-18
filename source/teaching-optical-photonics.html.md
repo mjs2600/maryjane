@@ -1,4 +1,4 @@
-#Biomedical Optical Imaging
+#Optical Spectroscopy in Environmental Science
 
 ##Summary:
 Tools based on optical spectroscopy are at the cutting edge of research in environmental science. 
