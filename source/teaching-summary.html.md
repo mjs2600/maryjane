@@ -9,5 +9,5 @@ Working with the [Duke Chemistry Outreach] (http://www.chem.duke.edu/outreach/ly
 I look forward to having undergraduates to mentor and a classroom of my own in order to refine my teaching abilities.
 Dr. Bonk once said, "the best thing you can do to improve yourself as a teacher is throw your notes away at the end of the semester."
 I will take every class I teach as an opportunity to update, revise, and reorganize the way I teach that class.
-I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, as well as specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/) and [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/). 
+I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, as well as specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/). 
 More than anything else, I want to teach students how to solve problems and think critically.
