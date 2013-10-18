@@ -14,7 +14,7 @@ Then, students will explore current applications, which include remote sensing o
 * Apply principles of physical chemistry to write an optical imaging proposal. Critique peer proposals
 
 
-##Weekly topics:
+##Topics:
 
 ###	Simple optical set-ups
 
