@@ -1,4 +1,4 @@
---
+---
 title: Laser fusion - the future of green energy?
 date: 2013-10-18
 tags: energy, optics
