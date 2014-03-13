@@ -1,6 +1,6 @@
 #Publications
 
-6. **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, “Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,” *Journal of Physical Chemistry A*, in preparation.
+6. **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,”] (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
 
 5. **M. J. Simpson**, K. E. Glass, J. W. Wilson, P. Wilby, J. Simon, W. S. Warren, [“Pump-Probe Microscopic Imaging of Jurassic-Aged Eumelanin,”] (http://pubs.acs.org/doi/abs/10.1021/jz4008036) *Journal of Physical Chemistry Letters*, **4** (11), 1924-1927 (2013).
 
