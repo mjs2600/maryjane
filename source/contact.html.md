@@ -1,7 +1,7 @@
 #Contact information
 
-* Address: Duke University, 124 Science Drive, Box 90347, Durham, NC 27708
+* Address: Oak Ridge National Laboratory, PO Box 2008, MS6142, Oak Ridge, TN 37831-6142
 
-* Phone: 919-660-1585
+* Phone: 321-277-8417
 
-* E-mail: <maryjane.simpson@duke.edu>
+* E-mail: <simpsonm@ornl.gov>
