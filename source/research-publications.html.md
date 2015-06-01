@@ -1,4 +1,6 @@
 #Publications
+8. **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, "Spatial Localization of Excitons and Charge Carriers in Hybrid Perovskite Thin Films" *submitted*
+
 7. J. W. Wilson, S. Degan, C. S. Gainey, T. Mitropoulos, **M. J. Simpson**, J. Y. Zhang, W. S. Warren, ["Comparing in vivo pump–probe and multiphoton fluorescence microscopy of melanoma and pigmented lesions"](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1983980) *Journal of Biomedical Optics*, **20** (5), 051012 (2015). 
 
 6. **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,”] (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
