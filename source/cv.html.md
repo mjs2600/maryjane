@@ -5,16 +5,14 @@
 
 ##Education
 
-###DUKE UNIVERSITY, 2009-Present
-Ph.D. Candidate
-
-Department of Chemistry
+###DUKE UNIVERSITY, 2009-2014
+Ph.D. in Chemistry
 
 Advisor: Professor Warren S. Warren
 
-Expected Graduation: May 2014, GPA: 3.65
+GPA: 3.65
 
-Certificate in College Teaching, September 2013
+Certificate in College Teaching
 
 ###STETSON UNIVERSITY, 2006-2009
 Bachelor of Science in Chemistry, *Cum Laude*
@@ -42,5 +40,5 @@ Bachelor of Science in Chemistry, *Cum Laude*
 ##Professional Memberships
 
 * American Chemical Society, 2009 – Present 
-* American Physical Society, 2011 – Present
+* American Physical Society, 2011 – 2013
 
