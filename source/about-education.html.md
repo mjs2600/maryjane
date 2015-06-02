@@ -1,11 +1,11 @@
 #Education
 
 ##Oak Ridge National Laboratory, 2014-present
-![ORNL](../images/ornl.png)
+![ORNL](ornl.png)
 ####Postdoctoral Research Associate
 
 ##Duke University, 2009-2014
-![Duke](../images/duke.png)
+![Duke](duke.png)
 
 ####Ph.D. in Chemistry
 
@@ -18,11 +18,10 @@ Dissertation: [Melanin Chemistry Revealed by Excited State Dynamics and the Resu
 ####Certificate in College Teaching
 
 ##Stetson University, 2006-2009
-![Stetson](../images/stetson.png)
+![Stetson](stetson.png)
 
-####Bachelor of Science 
+####Bachelor of Science
 
 Department of Chemistry
 <br>
 *Cum Laude*
-

@@ -1,5 +1,5 @@
 #Teaching
-![Teaching](../images/Teaching.jpg)
+![Teaching](Teaching.jpg)
 
 I am an effective teacher of chemistry because I have struggled with chemistry myself and continually remind myself of that struggle by working with students who are experiencing chemistry for the first time.
 I have received formal training through coursework and exercises to fulfill the requirements for the [certificate in college teaching] (http://gradschool.duke.edu/prof_dev/cct/index.php) at Duke University.
@@ -13,5 +13,5 @@ At the completion of a course, I will judge my success as a teacher on how well 
 developed as thinkers.
 This will help me to refine my approach to teaching and be more effective in the future.
 
-I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, as well as specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/). 
+I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, as well as specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/).
 More than anything else, I want to teach students how to solve problems and think critically.

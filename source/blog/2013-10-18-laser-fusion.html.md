@@ -8,13 +8,13 @@ Fusion is the process that produces energy in the sun. Two atoms become fused to
 READMORE
 Because the sun is already so hot, fusion is spontaneous, but achieving fusion under moderate conditions is much more complicated.
 One possibility that has been condisidered is lasers because of their ability to push things together, which is exactly what you need to force two atoms to fuse.
-How? Photons, like all particles, can be described as both a particle and a wave. 
+How? Photons, like all particles, can be described as both a particle and a wave.
 For now, let's consider their particle-like nature.
 Pressure is defined as force per area, and force is mass times acceleration.
 Because photons have momentum and energy, they effectively have a mass when they are moving.
 This is the theory behind solar sails: using photoncs from the sun to accelerate an object through space.
 
-![Laser Fusion](../../../images/blog3.png)
+![Laser Fusion](blog3.png)
 
 Similarly, a laser can be used to accelerate particles together to produce fusion.
 Reported this week in [Nature Communications] (http://www.nature.com/ncomms/2013/131008/ncomms3506/full/ncomms3506.html),

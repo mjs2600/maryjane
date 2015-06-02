@@ -1,4 +1,4 @@
-![Warren Lab](../images/WarrenLab.jpg)
+![Warren Lab](WarrenLab.jpg)
 [_chem.duke.edu_](http://chem.duke.edu/)
 
 I received a B. S. in chemistry from Stetson University in 2009.
