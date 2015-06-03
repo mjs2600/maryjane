@@ -3,6 +3,9 @@
 ##Oak Ridge National Laboratory, 2014-present
 ![ORNL](ornl.png)
 ####Postdoctoral Research Associate
+Chemical Sciences Division
+<br>
+Mentor: Dr. Yingzhong Ma
 
 ##Duke University, 2009-2014
 ![Duke](duke.png)
