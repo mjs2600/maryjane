@@ -2,9 +2,9 @@
 ![Teaching](Teaching.jpg)
 
 I am an effective teacher of chemistry because I have struggled with chemistry myself and continually remind myself of that struggle by working with students who are experiencing chemistry for the first time.
-I have received formal training through coursework and exercises to fulfill the requirements for the [certificate in college teaching] (http://gradschool.duke.edu/prof_dev/cct/index.php) at Duke University.
-Less formally, I have observed great lecturers such as [Dr. James Bonk] (http://www.dukechronicle.com/articles/2001/04/25/bonk) and have attended workshops both at Duke and at [conferences] (http://www.frontiersinoptics.com/home/special-events/eday/).
-Working with the [Duke Chemistry Outreach] (http://www.chem.duke.edu/outreach/lyle.php) team, I have learned how to explain difficult concepts to all ages.
+I have received formal training through coursework and exercises to fulfill the requirements for the [certificate in college teaching] (https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching) at Duke University.
+Less formally, I have observed great lecturers such as [Dr. James Bonk] (http://www.dukechronicle.com/articles/2001/04/25/bonk) and have attended workshops both at Duke and at [conferences] (http://www.frontiersinoptics.com/home/about-fio-ls/2013-recap/).
+Working with the [Duke Chemistry Outreach] (https://chem.duke.edu/outreach) team, I have learned how to explain difficult concepts to all ages.
 
 I look forward to having undergraduates to mentor and a classroom of my own in order to refine my teaching abilities.
 Dr. Bonk once said, "the best thing you can do to improve yourself as a teacher is throw your notes away at the end of the semester."
