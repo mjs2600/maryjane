@@ -1,5 +1,4 @@
-![Warren Lab](WarrenLab.jpg)
-[_chem.duke.edu_](http://chem.duke.edu/)
+![Warren Lab](maryjane.jpg)
 
 I received a B. S. in chemistry from Stetson University in 2009.
 I received a Ph.D. in chemistry from Duke University in 2014.

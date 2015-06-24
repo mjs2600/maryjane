@@ -1,6 +1,6 @@
 #Research Press Coverage
 
-![Press](MicroscopeWithWarren.jpg "Triangle Business Journal")
+![Press](WarrenLab.jpg)
 
 * [**“Aiming for lasers to zero in on cancers”**] (http://www.bizjournals.com/triangle/print-edition/2013/07/19/aiming-for-lasers-to-zero-in-on-cancers.html),
 Triangle Business Journal,
