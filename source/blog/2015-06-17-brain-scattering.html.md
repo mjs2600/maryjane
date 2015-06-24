@@ -11,7 +11,7 @@ It's no surprise that surgery to remove brain tumors is tricky: the surgeons nee
 But how does the surgeon know which tissue is healthy and which is cancerous?
 A new device leverages differences in the optical properties of the tissue to identify cancerous tissue without taking a biopsy.
 The technology is based on optical coherence tomography (OCT), which probes the scattering properties of a material.
-Cancerous tissue exhibits many differences from healthy tissue that alter the way it interacts with light, which facilitate detection using OCT.
+Cancerous tissue exhibits many differences from healthy tissue that alter the way it interacts with light, which facilitates detection using OCT.
 For example, cancer cells typically have much larger nuclei than healthy cells.
 This is not the first application of OCT on detecting cancerous tissue:
 scientists have been developing [OCT-based endoscopes for gastroenterology] (https://entrepreneurship.duke.edu/associate/adam-wax-phd/) for more than 10 years.
