@@ -58,6 +58,9 @@ can tell them apart.
 and Pheomelanin with Subcellular Resolution,”] (http://www.ncbi.nlm.nih.gov/pubmed/23353985) *Journal of Investigative
 Dermatology*, **133**, 1822-1826 (2013).
 
+T. E. Matthews, J. W. Wilson, J. Y. Zhang, **M. J. Simpson**, J. Y. Jin, W. S. Warren, [“In vivo and ex vivo epi-mode pump-probe imaging of melanin and microvasculature,”] (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3114225/) *Biomedical
+Optics Express*, 2, 1576-1583 (2011). 
+
 ###**Chemistry:** slight variations in the chemical environment produce big changes in the optical properties
 
 **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of
@@ -65,6 +68,10 @@ Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Agg
 (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
 
 ###**Medicine:** differences in the excited state optical properties are indicative of malignancy
+
+J. W. Wilson, S. Degan, C. S. Gainey, T. Mitropoulos, **M. J. Simpson**, J. Y. Zhang, W. S. Warren, ["Comparing in vivo
+pump–probe and multiphoton fluorescence microscopy of melanoma and pigmented lesions"](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1983980) *Journal of Biomedical Optics*,
+**20** (5), 051012 (2015). 
 
 T. E. Matthews, I. R. Piletic, M. A. Selim, **M. J. Simpson**, W. S. Warren, [“Pump-probe imaging differentiates melanoma
 from melanocytic nevi,”] (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371363/) *Science Translational Medicine*, **3**,
