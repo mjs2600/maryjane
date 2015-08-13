@@ -18,8 +18,3 @@ Another one of my goals will be developing theme-based chemistry classes and/or 
 Rather than teaching a traditional non-majors general chemistry class that may not be particularly meaningful to my students,
 I will pick content that is easily applied to topics that are interesting and relevant to my students because students learn best when they are interested in the material.
 A few examples include: medical chemistry, cooking chemistry, color chemistry (eg. paint pigments, geology, etc.), lawn and home chemistry (eg. cleaning supplies, fertilizers, etc.), and chemistry in history (eg. the development of the atomic bomb).
-
-Although I am most interested in teaching chemistry to non-majors, 
-I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, 
-and I would like to develop specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/).
-More than anything else, I want to teach students how to solve problems and think critically.
