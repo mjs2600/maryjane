@@ -7,9 +7,9 @@
 
 7. J. W. Wilson, S. Degan, C. S. Gainey, T. Mitropoulos, **M. J. Simpson**, J. Y. Zhang, W. S. Warren, ["Comparing in vivo pump–probe and multiphoton fluorescence microscopy of melanoma and pigmented lesions"](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1983980) *Journal of Biomedical Optics*, **20** (5), 051012 (2015). 
 
-6. **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. E. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,”] (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
+6. **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,”] (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
 
-5. **M. J. Simpson**, K. E. Glass, J. W. Wilson, P. Wilby, J. Simon, W. S. Warren, [“Pump-Probe Microscopic Imaging of Jurassic-Aged Eumelanin,”] (http://pubs.acs.org/doi/abs/10.1021/jz4008036) *Journal of Physical Chemistry Letters*, **4** (11), 1924-1927 (2013).
+5. **M. J. Simpson**, K. Glass, J. W. Wilson, P. Wilby, J. Simon, W. S. Warren, [“Pump-Probe Microscopic Imaging of Jurassic-Aged Eumelanin,”] (http://pubs.acs.org/doi/abs/10.1021/jz4008036) *Journal of Physical Chemistry Letters*, **4** (11), 1924-1927 (2013).
 
 4. **M. J. Simpson**, J. W. Wilson, M. A. Phipps, F. E. Robles, M. A. Selim, W. S. Warren, [“Nonlinear Microscopy of Eumelanin and Pheomelanin with Subcellular Resolution,”] (http://www.ncbi.nlm.nih.gov/pubmed/23353985) *Journal of Investigative Dermatology*, **133**, 1822-1826 (2013).
 
