@@ -1,4 +1,9 @@
+#Recorded Presentation
+* [**"Spatial Localization of Excitons and Charge Carriers in Hybrid Perovskite Thin Films"**](http://pubs.acs.org/iapps/liveslides/pages/index.htm?mscNo=acs.jpclett.5b01050), ACS LiveSlides Recording, 13 August 2015
+
 #Conference Presentations
+* [**"Femtosecond Transient Absorption Microscopy of Perovskite-Based Solar Cells"**](https://portal02.ornl.gov/sites/universityrecruiting/postdoc/PDA/SitePages/3rdPostdocSymp.aspx), Oral Presentation, *Third Annual ORNL Postdoc Research Symposium*, Oak Ridge, TN, USA, 30 July 2015
+
 * [**"Quantitative Separation of Ultrafast Transient Absorption Microscopy Data"**](http://www.cnms.ornl.gov/JointNSRC2015/), Poster Presentation, *Joint NSRC Workshop: "Big, Deep, Smart Data Analytics in Materials Imaging"*, Oak Ridge, TN, USA, 8 June 2015
 
 * [**"Transient Absorption Microscopy of Perovskite Microcrystalline Films"**](http://www.fitzpatrick.duke.edu/2015-fip-symposium), Poster Presentation, *Fitzpatrick Institute for Photonics Annual Meeting*, Durham, NC, USA, 9 March 2015
