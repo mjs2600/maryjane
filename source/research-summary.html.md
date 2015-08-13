@@ -52,33 +52,31 @@ can tell them apart.
 
 ##Applications of chemical imaging with transient absorption microscopy
 
-###**Biology:** biological molecules that are capable of absorbing light can create intrinsic chemical contrast for the study of biological structures and processes
+**Biology:** biological molecules that are capable of absorbing light can create intrinsic chemical contrast for the study of biological structures and processes
 
 **M. J. Simpson**, J. W. Wilson, M. A. Phipps, F. E. Robles, M. A. Selim, W. S. Warren, [“Nonlinear Microscopy of Eumelanin
 and Pheomelanin with Subcellular Resolution,”] (http://www.ncbi.nlm.nih.gov/pubmed/23353985) *Journal of Investigative
 Dermatology*, **133**, 1822-1826 (2013).
 
-###**Chemistry:** slight variations in the chemical environment produce big changes in the optical properties
+**Chemistry:** slight variations in the chemical environment produce big changes in the optical properties
 
 **M. J. Simpson**, J. W. Wilson, C. P. Dall, K. Glass, J. D. Simon, W. S. Warren, [“Near Infrared Excited State Dynamics of
 Melanins: the Effects of Iron Content, Photo-Damage, Chemical Oxidation, and Aggregate Size,”]
 (http://pubs.acs.org/doi/abs/10.1021/jp4107475) *Journal of Physical Chemistry A*, **118** (6), 993-1003 (2014).
 
-###**Medicine:** differences in the excited state optical properties are indicative of malignancy
+**Medicine:** differences in the excited state optical properties are indicative of malignancy
 
 T. E. Matthews, I. R. Piletic, M. A. Selim, **M. J. Simpson**, W. S. Warren, [“Pump-probe imaging differentiates melanoma
 from melanocytic nevi,”] (http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3371363/) *Science Translational Medicine*, **3**,
 71ra15 (2011).
 
-###**Paleontology:** differences in the excited state optical properties point to chemical differences between modern and
-fossilized biomolecules
+**Paleontology:** differences in the excited state optical properties point to chemical differences between modern and fossilized biomolecules
 
 **M. J. Simpson**, K. Glass, J. W. Wilson, P. Wilby, J. Simon, W. S. Warren, [“Pump-Probe Microscopic Imaging of
 Jurassic-Aged Eumelanin,”] (http://pubs.acs.org/doi/abs/10.1021/jz4008036) *Journal of Physical Chemistry Letters*, **4**
 (11), 1924-1927 (2013).
 
-###**Materials science:** variation in the excited state lifetimes suggests heterogeneity in the nature of the photoexcitation
-across photovoltaic materials 
+**Materials science:** variation in the excited state lifetimes suggests heterogeneity in the nature of the photoexcitation across photovoltaic materials 
 
 **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, ["Spatial Localization of Excitons and Charge Carriers in Hybrid
 Perovskite Thin Films,"](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01050) *Journal of Physical Chemistry Letters*,
