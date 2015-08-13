@@ -24,9 +24,9 @@ At the completion of a course, I will judge my success as a teacher on how well 
 covered and how much they have developed as thinkers.
 This will help me to refine my approach to teaching and be more effective in the future.
 
-##Diverse background makes me versatile
+##Diverse background and versatile
 
+My training focuses on leveraging notions of physical chemistry to develop novel analytical chemistry techniques. My work also required me to write data analysis programs in Python. This makes me a versatile addition to a small chemistry department.
 Although I am most interested in teaching chemistry to non-majors, 
-I am prepared to teach general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry, 
-and I would like to develop specialty courses in the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/).
-More than anything else, I want to teach students how to solve problems and think critically.
+I am prepared to teach labs and lectures associated with general chemistry, physical chemistry, inorganic chemistry, and analytical chemistry. 
+In the future, I would like to develop specialty courses in Programming for Chemists, the [Chemistry and Physics of Cooking] (http://people.duke.edu/~ms325/teaching-cooking-chemistry/), [Biomedical Optical Imaging] (http://people.duke.edu/~ms325/teaching-biomedical-optical-imaging-syllabus/), and [Optical Spectroscopy in Environmental Science] (http://people.duke.edu/~ms325/teaching-environmental-photonics/).
