@@ -1,5 +1,9 @@
 #Publications
-8. **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, "Spatial Localization of Excitons and Charge Carriers in Hybrid Perovskite Thin Films" *submitted*
+10. B. Doughty, **M. J. Simpson**, B. Yang, K. Xiao, Y.-Z. Ma, "Simplification of Femtosecond Transient Absorption Microscopy Data from CH3NH3PbI3 Perovskite Thin Films into Decay Associated Amplitude Maps," *submitted*
+
+9. **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, "Separation of Distinct Photoexcitation Species in Femtosecond Transient Absorption Microscopy," *submitted*
+
+8. **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, ["Spatial Localization of Excitons and Charge Carriers in Hybrid Perovskite Thin Films,"](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01050) *Journal of Physical Chemistry Letters*, **6** (15), 3041-3047 (2015)
 
 7. J. W. Wilson, S. Degan, C. S. Gainey, T. Mitropoulos, **M. J. Simpson**, J. Y. Zhang, W. S. Warren, ["Comparing in vivo pump–probe and multiphoton fluorescence microscopy of melanoma and pigmented lesions"](http://biomedicaloptics.spiedigitallibrary.org/article.aspx?articleid=1983980) *Journal of Biomedical Optics*, **20** (5), 051012 (2015). 
 
