@@ -2,24 +2,20 @@
 
 ![Optics Outreach](MoreOpticsOutreach.jpg)
 
-The vast majority of those taking general chemistry classes will never utilize those chemistry facts.
-However, chemistry is an important part of a well-rounded education because it can cultivate a variety of skills that students need in order to become successful, independent adults.
-I empower students to think critically and creatively and to solve problems in the context of chemistry, mainly at the introductory level.
+Chemistry class is about more than just the periodic table, stoichiometry, and gas laws: it is a critical component of a liberal arts education.
 
+##Problem solving and critical thinking disguised as a chemistry class
+
+Through chemistry, students can cultivate a variety of skills necessary to becoming a successful, independent adult.
+I will empower students to think critically and creatively and to solve problems in the context of chemistry.
 One of my goals as a chemistry professor is teaching students to analyze information critically.
-Learning something banal such as significant figures teaches students that all measurements are uncertain and that they should first consider the uncertainty of a measurement to understand its value.
+For example, teaching students about significant figures shows students that all measurements are uncertain and that they should first consider the uncertainty of a measurement to understand its value.
 Everyone needs a rudimentary understanding of uncertainty to participate in discussions across a range of important topics such as global warming, political polling, and forensic evidence.
 I will incorporate critical thinking into my classes by having students analyze the assumptions and uncertainties associated with general formulas and other rules they are learning in class, as well as having discussions about current topics of interest.
 
-Similar to creative thinking is creative problem solving, another skill that I will teach students through chemistry class.
-It is not uncommon to face a problem without all the information necessary to solve that problem; however, students often flounder when given such questions in class.
-I will give students confidence in these situations by teaching them strategies that apply not only to chemistry problems but to all kinds of problems.
-One example is giving students all the information they need to solve a problem except the equation to plug the information into, such as solving for frequency given the wavelength and the speed of light.
-A clever student will arrange the information so the units will cancel.
-Although this approach certainly will not always produce a correct answer, in general, piecing together information is a good approach that is useful across the spectrum of topics.
+##Theme-based labs keep chemistry class relevant to non-majors
 
-Another problem solving strategy is making approximations.
-An educated person should be able to analyze a situation and approximate numbers, particularly to check to see if a number sounds reasonable.
-One problem that I have given students is having them solve for how many helium-filled balloons it would take to lift a human into the air.
-Students need to come up with reasonable assumptions for how much a human weighs and how big a balloon is.
-This not only teaches students about gas laws and gravity but also about how to get an approximate answer without knowing every detail of a situation.
+Another one of my goals will be developing theme-based chemistry classes and/or labs, particularly for non-major students.
+Rather than teaching a traditional non-majors general chemistry class that may not be particularly meaningful to my students,
+I will pick content that is easily applied to topics that are interesting and relevant to my students because students learn best when they are interested in the material.
+A few examples include: medical chemistry, cooking chemistry, color chemistry (eg. paint pigments, geology, etc.), lawn and home chemistry (eg. cleaning supplies, fertilizers, etc.), and chemistry in history (eg. the development of the atomic bomb).
