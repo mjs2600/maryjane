@@ -1,5 +1,5 @@
 #Publications
-10. B. Doughty, **M. J. Simpson**, B. Yang, K. Xiao, Y.-Z. Ma, "Simplification of Femtosecond Transient Absorption Microscopy Data from CH3NH3PbI3 Perovskite Thin Films into Decay Associated Amplitude Maps," *submitted*
+10. B. Doughty, **M. J. Simpson**, B. Yang, K. Xiao, Y.-Z. Ma, "Simplification of Femtosecond Transient Absorption Microscopy Data from CH<sub>3</sub>NH<sub>3</sub>PbI<sub>3</sub> Perovskite Thin Films into Decay Associated Amplitude Maps," *submitted*
 
 9. **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, "Separation of Distinct Photoexcitation Species in Femtosecond Transient Absorption Microscopy," *submitted*
 
