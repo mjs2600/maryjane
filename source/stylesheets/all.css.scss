@@ -48,7 +48,7 @@ i {
 
 .navbar {
   a {
-    font-family: "Muli";
+    font-family: "Muli",Helvetica,Arial,sans-serif;
     font-size: 18px;
     &.brand {
       font-size: 30px;
@@ -116,6 +116,24 @@ ul {
     display: float;
     float: right;
     padding-left: 100px;
+    clear: right;
+    padding-bottom: 1rem;
+  }
+
+  figure {
+    display: float;
+    float: left;
+    padding-left: 20px;
+
+    img {
+        display: block;
+        padding-left: 0;
+        float: none;
+    }
+    figcaption {
+        display: block;
+        padding-left: 0;
+    }
   }
 
   p,li,ol {
@@ -128,6 +146,6 @@ ul {
 
   h1,h2,h3 {
     clear: both;
-    font-family: "Muli";
+    font-family: "Muli",Helvetica,Arial,sans-serif;
   }
 }
