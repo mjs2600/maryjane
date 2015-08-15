@@ -1,5 +1,5 @@
-require "redcarpet"
-require "slim"
+require 'redcarpet'
+require 'slim'
 require 'bootstrap-sass'
 
 ###
@@ -76,14 +76,14 @@ configure :build do
 end
 
 activate :blog do |blog|
-    blog.prefix = "blog"
+  blog.prefix = 'blog'
 end
 
-page "blog/*", :layout => :article_layout
+page 'blog/*', layout: :article_layout
 
 activate :directory_indexes
 set :markdown_engine, :redcarpet
-set :markdown, :fenced_code_blocks => true, :smartypants => true
+set :markdown, fenced_code_blocks: true, smartypants: true
 
-set :fonts_dir,  "fonts"
+set :fonts_dir,  'fonts'
 
