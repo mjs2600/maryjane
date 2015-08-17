@@ -38,22 +38,22 @@ observe this signature, they know that hydrogen is present.
 ![Three bananas](research/three_bananas.png)
 ![Pixelated bananas](research/pixelated_bananas.png)
 One you know the way a chemical interacts with light, you can take measurements pixel-by-pixel to form an image with
-microscale resolution. For example, based on the example on the bottom-left, since you know what chemicals the colors
-correspond to, you can approximately map the chemicals onto an image, shown on the bottom-right. This example may seem
-trivial because it can be easily done by eye, but chemicals which interact with light in similar ways are much harder to
+microscale resolution. For example, since you know what chemicals the colors
+correspond to when imaging bananas, you can map the chemicals that are present and form a "chemical image". This example may seem trivial because it can be easily done by eye, but chemicals which interact with light in similar ways are much harder to
 discriminate. For example, if all of the chemicals that are present absorb exactly the same color(s) or have broad, poorly
 defined absorptions, then they will prove challenging to differentiate.
 
 ##Making visible light spectroscopic chemical imaging more specific by measuring more parameters: transient absorption microscopy
 
 ![Three reds](research/three_reds.png)
-Although excited state lifetimes are short-lived, there are lasers that are fast enough to make measurements before the
-chemical relaxes back down to the ground state. This type of measurement is called “transient absorption microscopy.” With
-these lasers, you can probe the optical properties of the excited state and also measure the lifetime of the excited state.
-Combining the ground state optical properties with these additional parameters produces more specific chemical contrast that
+Combining the ground state optical properties with additional parameters produces more specific chemical contrast that
 allows discrimination of chemicals which have similar optical properties. For example, imagine you have three chemicals that
 all appear red because their ground state electrons can absorb a blue photon. By incorporating additional information, you
-can tell them apart.
+can tell them apart. 
+
+We require specialized equipment to make these measurements. Although excited state lifetimes are much to short to measure with a typical spectrometer, there are lasers that are fast enough to make measurements before the
+chemical relaxes back down to the ground state. This type of measurement is called “transient absorption microscopy.” With
+these lasers, you can probe the optical properties of the excited state and also measure the lifetime of the excited state.
 
 ##Applications of chemical imaging with transient absorption microscopy
 
