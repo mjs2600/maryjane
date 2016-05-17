@@ -96,6 +96,12 @@ Jurassic-Aged Eumelanin,”] (http://pubs.acs.org/doi/abs/10.1021/jz4008036) *Jo
 
 ![Materials science application](research/materials.gif)
 
+**M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, ["Imaging Electronic Trap States in Pervoskite Thin Films with Combined Fluorescence and Femtosecond Transient Absorption Microscopy,"] (http://pubs.acs.org/doi/full/10.1021/acs.jpclett.6b00715) *Journal of Physical Chemistry Letters*, **7** (9), 1725-1731 (2016).
+
+B. Doughty, **M. J. Simpson**, B. Yang, K. Xiao, Y.-Z. Ma, ["Simplification of Femtosecond Transient Absorption Microscopy Data from CH3NH3PbI3 Perovskite Thin Films into Decay Associated Amplitude Maps,"] (http://iopscience.iop.org/article/10.1088/0957-4484/27/11/114002/meta) *Nanotechnology*, **27** (11), 4002 (2016).
+
+**M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, ["Separation of Distinct Photoexcitation Species in Femtosecond Transient Absorption Microscopy,"] (http://pubs.acs.org/doi/abs/10.1021/acsphotonics.5b00638) *ACS Photonics*, **3** (3), 434-442 (2016).
+
 **M. J. Simpson**, B. Doughty, B. Yang, K. Xiao, Y.-Z. Ma, ["Spatial Localization of Excitons and Charge Carriers in Hybrid
 Perovskite Thin Films,"](http://pubs.acs.org/doi/abs/10.1021/acs.jpclett.5b01050) *Journal of Physical Chemistry Letters*,
 **6** (15), 3041-3047 (2015).
