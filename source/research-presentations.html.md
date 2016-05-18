@@ -16,7 +16,7 @@
 
 * [**“Examining Melanin Degradation with Pump-Probe Microscopy”**] (http://www.fitzpatrick.duke.edu/sites/fitzpatrick.duke.edu/files/FINAL%20FIP%202013%20Program.pdf), Poster Presentation, *Fitzpatrick Institute for Photonics Annual Meeting*, Durham, NC, USA, 11 March 2013
 
-* [**“Investigating the Metastatic Potential and Pigment Chemistry of Melanomas Using Pump-Probe Imaging”**] (https://spie.org/app/program/index.cfm?fuseaction=conferencedetail&conference_id=1012768&event_id=896195), Invited Oral Presentation, *Photonics West*, San Francisco, CA, USA, 2 February 2013
+* **“Investigating the Metastatic Potential and Pigment Chemistry of Melanomas Using Pump-Probe Imaging”**, Invited Oral Presentation, *Photonics West*, San Francisco, CA, USA, 2 February 2013
 
 * **“Investigating the Metastatic Potential and Pigment Chemistry of Melanomas Using Pump-Probe Imaging”**, Featured Poster Presentation, *Fitzpatrick Institute for Photonics Breakfast*, Durham, NC, USA, 9 November 2012
 
