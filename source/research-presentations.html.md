@@ -1,7 +1,13 @@
 #Recorded Presentation
+* [**"New ORNL method could unleash solar power potential"**](https://www.youtube.com/watch?v=QpYZUCAtCYQ), Oak Ridge National Laboratory Press Interview, 17 March 2016
+
 * [**"Spatial Localization of Excitons and Charge Carriers in Hybrid Perovskite Thin Films"**](http://pubs.acs.org/iapps/liveslides/pages/index.htm?mscNo=acs.jpclett.5b01050), ACS LiveSlides Recording, 13 August 2015
 
 #Conference Presentations
+* **"Quantitative Separation of Ultrafast Transient Absorption Microscopy Data"** Poster Presentation, *Oak Ridge Associated Universities Annual Meeting: Applications of Big Data Analytics*, Oak Ridge, TN, USA, 9 March 2016
+
+* **"Ultrafast Transient Absorption Microscopy of Perovskite Microcrystalline Films"** Poster Presentation, *Southeast Ultrafast Conference*, Raleigh, NC, USA, 14 January 2016
+
 * [**"Femtosecond Transient Absorption Microscopy of Perovskite-Based Solar Cells"**](https://portal02.ornl.gov/sites/universityrecruiting/postdoc/PDA/SitePages/3rdPostdocSymp.aspx), Oral Presentation, *Third Annual ORNL Postdoc Research Symposium*, Oak Ridge, TN, USA, 30 July 2015
 
 * [**"Quantitative Separation of Ultrafast Transient Absorption Microscopy Data"**](http://www.cnms.ornl.gov/JointNSRC2015/), Poster Presentation, *Joint NSRC Workshop: "Big, Deep, Smart Data Analytics in Materials Imaging"*, Oak Ridge, TN, USA, 8 June 2015
