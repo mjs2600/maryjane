@@ -1,4 +1,7 @@
 # Honors and Awards
+* **Poster Prize**, 2016, Coherent Southeast Ultrafast Conference
+
+* **Supplemental Performance Award**, 2015, Oak Ridge National Laboratory
 
 * **Kathleen Zeilek Fellowship**, 2013, Duke University Department of Chemistry
 
